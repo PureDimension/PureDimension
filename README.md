@@ -1,5 +1,8 @@
-## Hi there 👋
-
+- Hello friends! My name is PureDimension, but I also go by the pen name “涟漪Rippin,” which comes from the word “ripple.”
+- I’m new to the GitHub open-source community and am trying to expand my tech stack and develop my coding skills by contributing to open-source projects.
+- Currently, I’m a graduate student at Nanjing University, focusing on AI-related research.
+- Beyond coding, I have many personal goals, such as learning music composition, creating indie games, and learn Japanese. I aspire to become a freelancer and hope that one day I will have the skills to do so!
+- For Chinese users: 我的一个更加*电波系、白日梦和碎碎念*的中文网站在https://void-island-site.vercel.app/
 <!--
 **PureDimension/PureDimension** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
