@@ -3,6 +3,7 @@
 - Currently, I’m a graduate student at Nanjing University, focusing on AI-related research.
 - Beyond coding, I have many personal goals, such as learning music composition, creating indie games, learn pixel art and Japanese. I aspire to become a freelancer(though that’s quite unrealistic in China) and hope that one day I will have the skills to do so!
 - For Chinese users: 我的一个更加*电波系、白日梦和碎碎念*的中文网站在https://void-island-site.vercel.app/
+- Feel free to connect and make friends!!!(｡･ω･｡)ﾉ♡
 <!--
 **PureDimension/PureDimension** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
